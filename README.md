@@ -1,3 +1,3 @@
-# Jarasoft-project
+# MIYA-project
 
-# MIYA: A food ordering website.
+ MIYA: A food ordering website.
